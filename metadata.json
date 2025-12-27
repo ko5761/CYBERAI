@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield AI - Sensibilisation Cybersécurité",
+  "description": "Une plateforme éducative complète pour apprendre la cybersécurité avec une IA experte, des quiz solo/multijoueur et des outils de sécurité pratiques.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
